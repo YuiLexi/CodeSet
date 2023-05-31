@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "原型模式", "原型模式\原型模式.csproj", "{2E8F5B74-C296-4BE6-81C7-31877A74839B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8F5B74-C296-4BE6-81C7-31877A74839B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8F5B74-C296-4BE6-81C7-31877A74839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8F5B74-C296-4BE6-81C7-31877A74839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8F5B74-C296-4BE6-81C7-31877A74839B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DFFDC9-1F2D-4F31-8E25-56BBCF646462}
+	EndGlobalSection
+EndGlobal
